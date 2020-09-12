@@ -1,16 +1,35 @@
+
 # housing-price-stats
 
-*the dataset comes from the city Ames from Iowa State , USA.
-*the city seems to have a big university campus
-*one airport
+## Overview
+
+The goal of this project is to practice statistical analysis using the iterative data analysis process with the following dataset.
+
+[Housing Prices](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+
+**The goal of your analysis is to identify the most important features of houses that affect the sale prices.**
+
+Because the variable is a price variable you need to make a research on the market to construct your hipoteses.
+
+**correlation doenst mean causation**
 
 
-*basic information from the city
+
+## Research of the market 
+
+I will try to first research the market in Ames from Iowa State, USA where this data set comes from to possible variables that can make a different is this city.
+
+basic information about Ames
+
+* Population - 65,005 +13.4% since 2010
+* Unemployment Rate - 1.5%
+* Median Income - $42,373
+* Median Home Price - $183,400
+* Median Age - 23.1
+
+* the city seems to have a big university campus
+asic information from the city
 Ames, Iowa 
-
-
-
-12 Reviews | Review This Place | Photos and Maps
 
 Population - 65,005 +13.4% since 2010
 
@@ -73,8 +92,14 @@ because its one KPY (price per sq.feet) that people/consumers use to evaluate an
 -YrSold: MoSold:
 - SaleCondition: Condition of sale
 
+## confirm hipoteses
 
-Sale price formula = lot_sqfeet(price_lot/sq feet)+ basement*price + garage*price +  living sp_feet*price_sqfeet + misc-values
+2007 / 2008 crisis
+
+![graph](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008#/media/File:TED_Spread.png)
 
 
+
+*  ratio between bathrroms and beedrooms
+* price 
 
