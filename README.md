@@ -96,7 +96,9 @@ because its one KPY (price per sq.feet) that people/consumers use to evaluate an
 
 2007 / 2008 crisis
 
-![graph](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%932008#/media/File:TED_Spread.png)
+![graph](https://upload.wikimedia.org/wikipedia/commons/9/92/TED_Spread.png)
+
+price dicrease
 
 
 
