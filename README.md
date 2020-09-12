@@ -1,6 +1,7 @@
 
 # housing-price-stats
 
+
 ## Overview
 
 The goal of this project is to practice statistical analysis using the iterative data analysis process with the following dataset.
@@ -30,18 +31,6 @@ basic information about Ames
 * the city seems to have a big university campus
 asic information from the city
 Ames, Iowa 
-
-Population - 65,005 +13.4% since 2010
-
-Unemployment Rate - 1.5%
-
-Median Income - $42,373
-
-Median Home Price - $183,400
-
-Median Age - 23.1
-
-Comfort Index (Climate) 6.9/10
 
 Pros
  College-town amenities
