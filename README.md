@@ -18,7 +18,9 @@ Because the variable is a price variable you need to make a research on the mark
 ## Real Estate market problems
 
 **very illiquid market , that means very hard to convert into cash.**
+
 **tipical house sale can take months, maybe years.**
+
 **uniqueness in every asset, is dificul to compare assets, and evaluate**
 
 Because of this problems you will need to make a lot a assumptions
@@ -27,15 +29,16 @@ Because of this problems you will need to make a lot a assumptions
 ## price decomposition
 
 cost estimate for brand new house = lote price( the better the location the expensive it is)
-				+ cost of construction( fix cost + variable cost(depending on size and luxus)
-				+ extras not included in a typical market house
-				+ profit/risk of the promoter/contractor
+                                    + cost of construction( fix cost + variable cost(depending on size and luxus)
+                                    + extras not included in a typical market house that can make a diference
+                                    + profit/risk of the promoter/contractor
 
 
 
 ## Research of the market 
 
-I will try to first research the market in Ames from Iowa State, USA where this data set comes from to possible variables that can make a different is this city.
+I will first do a research on the market in Ames from Iowa State, USA. 
+To see possible variables that can make a different is this city.
 
 basic information about Ames
 
@@ -61,30 +64,28 @@ How people in Ames get to work:
 - 5.0% carpool with others
 - 4.0% work from home
 - 8.3% take mass transit
--t
 
+## Select some variables
 
-after some research on the style of living I started to choose and pick 
+its impossible to analyse all of them in a short time.
+
+after some research on the style of living I choose 
 some of variables that could have an impact on the price.
 
-The price on real estate its very corellated to the square feet, 
-because its one KPY (price per sq.feet) that people/consumers use to evaluate and compare prices.
 
-
-Possible variables for location: 
+**Possible variables for location:**
 -Neighborhood, -Condition1, -Condition2,
 
-Possible variables for Quality:
+**Possible variables for Quality:**
 pool, -LotArea ,-OverallQual, -OverallCond, KitchenQual, MSSubClass, YearBuilt
 
-Possible variables for size:
-
+**Possible variables for size:**
 -LotArea,-GrLivArea, -Fullbath , Halfbath ,Bedrooms,TotRmsAbvGrd, -GarageArea
 
-Possible variable for the market:
+**Possible variable for the market trend:**
 -YrSold: MoSold:
 
-Possible variables for extras:
+**Possible variables for extras:**
 MiscFeature, pool, SaleCondition
 
 
@@ -101,9 +102,10 @@ MiscFeature, pool, SaleCondition
 * pool impact and extras
 
 
-* ratio between bathrroms and beedrooms
+* ratio between bathrooms and beedrooms
 
 * location area
+
 
 ## Possible variations and hipoteses
 
